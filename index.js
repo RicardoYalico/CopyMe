@@ -1,4 +1,4 @@
 document.oncopy = event =>{
   event.preventDefault();
-  event.clipboardData.setData('text/plain', 'Que pasho V:')
+  event.clipboardData.setData('text/plain', 'Ola k ase V:')
 }
